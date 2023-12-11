@@ -11,3 +11,7 @@
   ```shell
   ng g interface courses/models/course
   ```
+* Gerar um serviço
+  ```shell
+  ng g s courses/services/courses
+  ```
