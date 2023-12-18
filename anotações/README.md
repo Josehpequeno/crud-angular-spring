@@ -15,3 +15,7 @@
   ```shell
   ng g s courses/services/courses
   ```
+* Gerar um pipe
+  ```shell
+  ng g pipe shared/pipes/category
+  ```
